@@ -15,3 +15,11 @@ ________________________________________________________________________________
 **Today's Progress:** Initialized log repo - Crafted reply to subreddit.
 
 **Links:**  [Repo](https://github.com/theGreenJedi/100DaysofML) & [Subreddit](https:://www.redit.com/r/MachineLearning/wiki/index)
+
+### Day 1 :July 9, 2018
+
+**Thoughts:** My ideas for project to tackle is still percolating. I am leaning towards something in biology. Read my daily ML blogs/vlogs etc, and going to wrap up with implementing a paper (Haven't found one yet - Maybe I will just read a bunch of papers today in search of one to emulate.
+
+**Today's Progress:**
+
+**Links:** []()
