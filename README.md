@@ -13,4 +13,4 @@ ________________________________________________________________________________
 
 **Today's Progress:** Initialized log repo - Crafted reply to subreddit.
 
-**Links:** 
+**Links:** [Repo](https://github.com/theGreenJedi/100DaysofML) [Subreddit]
