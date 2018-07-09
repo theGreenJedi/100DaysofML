@@ -14,4 +14,4 @@ ________________________________________________________________________________
 
 **Today's Progress:** Initialized log repo - Crafted reply to subreddit.
 
-**Links:**  [Repo](https://github.com/theGreenJedi/100DaysofML) [Subreddit](https:://www.redit.com/r/MachineLearning/wiki/index)
+**Links:**  [Repo](https://github.com/theGreenJedi/100DaysofML) & [Subreddit](https:://www.redit.com/r/MachineLearning/wiki/index)
