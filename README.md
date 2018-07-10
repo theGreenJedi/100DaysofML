@@ -20,6 +20,6 @@ ________________________________________________________________________________
 
 **Thoughts:** My ideas for project to tackle is still percolating. I am leaning towards something in biology. Read my daily ML blogs/vlogs etc, and going to wrap up with implementing a paper (Haven't found one yet - Maybe I will just read a bunch of papers today in search of one to emulate.
 
-**Today's Progress:**
+**Today's Progress:** After reading through papers for an hour, I settled on 5 that I want to truly study (included them in the repo)
 
 **Links:** []()
