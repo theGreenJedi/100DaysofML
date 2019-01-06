@@ -31,3 +31,9 @@ ________________________________________________________________________________
 **Today's Progress:** Updated github.io - read thru arxiv/slack
 
 **Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#)
+
+### Day 1: Jan 2, 2019
+
+**Today's Progress:** Tinkered with Keep on truckin', reaffirmed 100DaysofML challenge to @siraj and the universe.
+
+**Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#)
