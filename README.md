@@ -30,4 +30,4 @@ ________________________________________________________________________________
 
 **Today's Progress:** Updated github.io - read thru arxiv/slack
 
-**Links:** [https://thegreenjedi.github.io/#](github.io) 
+**Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#)
