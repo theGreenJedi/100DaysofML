@@ -46,6 +46,8 @@ Upon organizing my past learning(s) I came upon the fact that my older Coursera 
 
 **Today's Progress:** More reading, catching up on SchoolofAI Slack, organizing past learnings to Truckin'
 
-**Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#) and SchoolofAI [Slack](https://programming-wizards.slack.com/messages/GC711BXV2/convo/GC711BXV2-1545537331.017400/)
+**Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#) 
+           SchoolofAI [Slack](https://programming-wizards.slack.com/messages/GC711BXV2/convo/GC711BXV2-1545537331.017400/) 
+           [OSSU past coursework](https://ossu.firebaseapp.com/#/profile/github:16416542)
 
 
