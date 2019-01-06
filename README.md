@@ -37,3 +37,7 @@ ________________________________________________________________________________
 **Today's Progress:** Tinkered with Keep on truckin', reaffirmed 100DaysofML challenge to @siraj and the universe.
 
 **Links:** [Keep on Truckin'](https://thegreenjedi.github.io/#)
+
+### Side Note: Jan 2, 2019
+
+Upon organizing my past learning(s) I came upon the fact that my older Coursera certificates **NO LONGER WORK** Yes, I paid for certifications, Yes, I received certificates upon completion. But when I goto the certificate links I get dreaded #404's. Contacted Coursera support and they don't have a paid record of completions. A few of them still do work, but many do not. The only pattern I am seeing, is that for about a year I was 'subscribed' to Coursera (pay a fixed $ every month for whatever classes) Coursera ended that program and it seems as if any courses I completed during that time there is not any record of (besides my repo's (work done) and my own hard copy certificates. So Yeah, s*** Coursera
