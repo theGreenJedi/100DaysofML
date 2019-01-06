@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 **Links:** []()
 
-### Day 0 : Jan 1, 2019
+### Day 0 (Again): Jan 1, 2019
 
 **Update:** The New Year brings reflection on the past years accomplishments. A regret I have from 2018 is Not completing the 100 Days of ML. I feel as if I have done 300 days of ML yearly for the past few years - But I'd like to document for this fine program. So here we go (again:)
 
